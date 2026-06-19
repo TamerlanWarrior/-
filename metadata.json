@@ -1,0 +1,6 @@
+{
+  "name": "Заметки",
+  "description": "Простое и легкое приложение для создания заметок в Notes.txt в папке Download",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
